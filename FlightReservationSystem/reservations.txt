@@ -1,0 +1,3 @@
+SL-9996,SL-9996,Scare Airlines,Sunday,21:00,$1,Braison,Braison
+SL-9996,SL-9996,Scare Airlines,Sunday,21:00,$1,Braison,Braison
+NV-0382,VA-3941,Vertical Airways,Monday,21:00,$1,James,American
